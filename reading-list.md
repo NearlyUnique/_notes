@@ -3,9 +3,9 @@
 <!-- TOC -->
 
 - [TDD - Where did it all go wrong](#tdd---where-did-it-all-go-wrong)
-- [Ultimate Go](#ultimate-go)
 - [Go hook adaptor app](#go-hook-adaptor-app)
-- [Go application structure](#go-application-structure)
+- [Learning Go](#learning-go)
+- [To Read](#to-read)
 - [Linux](#linux)
 - [Random](#random)
 - [Random Archive](#random-archive)
@@ -45,10 +45,6 @@ Now to find some thoughts on why this is wrong.
 - [Steve Sanderson, writing great unit tests](http://blog.stevensanderson.com/2009/08/24/writing-great-unit-tests-best-and-worst-practises/)
 - [The Philosophy of Testing](https://www.codesimplicity.com/post/the-philosophy-of-testing/)
 
-## Ultimate Go
-
-Video training series by William Kennedy
-
 ## Go hook adaptor app
 
 ### To Read
@@ -57,17 +53,18 @@ Video training series by William Kennedy
 - [Using templates](https://www.calhoun.io/using-functions-inside-go-templates/)
 - [Mattermost hooks](https://docs.mattermost.com/developer/webhooks-incoming.html)
 
-## Go application structure
+## Learning Go
 
-### To Read
+## To Read
 
 - https://npf.io/2016/10/reusable-commands/
 - https://medium.com/@benbjohnson/standard-package-layout-7cdbc8391fc1
 - https://medium.com/wtf-dial/wtf-dial-domain-model-9655cd523182
 
-### Finished Reading
+### References
 
-none
+- [Training series by William Kennedy](https://www.safaribooksonline.com/library/view/ultimate-go-programming/9780134757476/)
+  - Covers more than how to type in a program in go. Whilst I don't agree with everything Bill suggests, watching the whole course (at x1.25) was worth the effort and Bill made me aware of many new topics.
 
 ## Linux
 
