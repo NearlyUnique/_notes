@@ -57,6 +57,7 @@ Now to find some thoughts on why this is wrong.
 
 ## To Read
 
+- [Go AWS Lambda](https://aws.amazon.com/blogs/compute/announcing-go-support-for-aws-lambda/)
 - https://npf.io/2016/10/reusable-commands/
 - https://medium.com/@benbjohnson/standard-package-layout-7cdbc8391fc1
 - https://medium.com/wtf-dial/wtf-dial-domain-model-9655cd523182
@@ -72,6 +73,9 @@ Now to find some thoughts on why this is wrong.
 
 ## Random
 
+- [Occam's Razor: How it works](https://science.howstuffworks.com/innovation/scientific-experiments/occams-razor.htm)
+- [Occam's Razor: What Occam really said](https://boingboing.net/2013/02/11/what-ockham-really-said.html)
+- [What does code readability mean?](http://typicalprogrammer.com/what-does-code-readability-mean)
 - [Netflix, What happens when you hit play](http://highscalability.com/blog/2017/12/11/netflix-what-happens-when-you-press-play.html)
 - [Unconferences, how to prepare](http://unconference.net/unconferencing-how-to-prepare-to-attend-an-unconference/)
 - [Introduction to logic programming with Prolog](https://www.matchilling.com/introduction-to-logic-programming-with-prolog/)
@@ -79,5 +83,8 @@ Now to find some thoughts on why this is wrong.
 
 ## Random Archive
 
-- [if aligned memory writes are atomic why do we need the sync atomic package](https://dave.cheney.net/2018/01/06/if-aligned-memory-writes-are-atomic-why-do-we-need-the-sync-atomic-package)
-  - Interesting reminder about how and why we need read/write barriers.
+- [Dave Cheney: If aligned memory writes are atomic why do we need the sync atomic package](https://dave.cheney.net/2018/01/06/if-aligned-memory-writes-are-atomic-why-do-we-need-the-sync-atomic-package)
+  - tl;dr; Force reading and/or writing through the various caches to main memory.
+- [Occam's Razor: The art of software design](https://michaellant.com/2010/08/10/occams-razor-and-the-art-of-software-design/)
+  - tl;dr; Ask why? Justify all the things, how do they contribute to the simplest solution.
+  
