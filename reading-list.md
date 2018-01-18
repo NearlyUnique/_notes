@@ -2,6 +2,7 @@
 
 <!-- TOC -->
 
+- [Retrospectives](#retrospectives)
 - [TDD - Where did it all go wrong](#tdd---where-did-it-all-go-wrong)
 - [Go hook adaptor app](#go-hook-adaptor-app)
 - [Learning Go](#learning-go)
@@ -11,6 +12,26 @@
 - [Random Archive](#random-archive)
 
 <!-- /TOC -->
+
+## Retrospectives
+
+Thinking about re-invigorating retrospectives and ensuring the time is well spent
+
+### To Read
+
+- [Luis Goncalves: Agile retrospectives](https://luis-goncalves.com/agile-retrospectives/)
+- [Agile Retrospective Resource Wiki](http://retrospectivewiki.org/index.php?title=Agile_Retrospective_Resource_Wiki)
+- [Akash: 1 useful tool or empty ceremony](http://www.akashb.com/blog/2012/05/06/agile-retrospectives-part-1-useful-tool-or-empty-ceremony/)
+- [Akash: 2 The Prime Directive](http://www.akashb.com/blog/2012/05/13/agile-retrospectives-the-prime-directive/)
+- [Akash: 3 The Safety Check](http://www.akashb.com/blog/2012/05/28/agile-retrospectives-the-safety-check/)
+- [Akash: 4 The Action Items](http://www.akashb.com/blog/2012/06/26/agile-retrospectives-action-items/)
+- [Akash: 5 The Facilitator](http://www.akashb.com/blog/2012/08/06/agile-retrospectives-the-facilitator/)
+- [Creating Safety](http://www.funretrospectives.com/creating-safety/)
+- [What to do when safety is low in a retrospective](https://www.benlinders.com/2016/what-to-do-when-safety-is-low-in-a-retrospective/)
+
+### Reference
+
+- [Author: akash](http://www.akashb.com/blog/author/akash/)
 
 ## TDD - Where did it all go wrong
 
