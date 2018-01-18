@@ -44,6 +44,7 @@ Now to find some thoughts on why this is wrong.
 - [TDD where did I go wrong](https://frankcode.net/2014/07/01/tdd-where-did-i-go-wrong/)
 - [Steve Sanderson, writing great unit tests](http://blog.stevensanderson.com/2009/08/24/writing-great-unit-tests-best-and-worst-practises/)
 - [The Philosophy of Testing](https://www.codesimplicity.com/post/the-philosophy-of-testing/)
+- [Dan North: Thoughts behind go's testing.T approach](https://dannorth.net/2016/09/03/scratching-a-junit-itch/)
 
 ## Go hook adaptor app
 
@@ -80,6 +81,7 @@ Now to find some thoughts on why this is wrong.
 - [Unconferences, how to prepare](http://unconference.net/unconferencing-how-to-prepare-to-attend-an-unconference/)
 - [Introduction to logic programming with Prolog](https://www.matchilling.com/introduction-to-logic-programming-with-prolog/)
 - [Getting started with go Matcha](https://gomatcha.io/guide/getting-started/)
+- [Luna data processing tool](http://www.luna-lang.org/)
 
 ## Random Archive
 
