@@ -52,7 +52,6 @@ Now to find some thoughts on why this is wrong.
 
 ### To read
 
-- [TDD avoid testing internals](http://codebetter.com/iancooper/2011/10/06/avoid-testing-implementation-details-test-behaviours/)
 - [Ken Beck. Test driven development by example](https://www.safaribooksonline.com/library/view/test-driven-development/0321146530/pr02.html)
 
 ### References
@@ -66,6 +65,7 @@ Now to find some thoughts on why this is wrong.
 - [Steve Sanderson, writing great unit tests](http://blog.stevensanderson.com/2009/08/24/writing-great-unit-tests-best-and-worst-practises/)
 - [The Philosophy of Testing](https://www.codesimplicity.com/post/the-philosophy-of-testing/)
 - [Dan North: Thoughts behind go's testing.T approach](https://dannorth.net/2016/09/03/scratching-a-junit-itch/)
+- [TDD avoid testing internals](http://codebetter.com/iancooper/2011/10/06/avoid-testing-implementation-details-test-behaviours/)
 
 ## Go hook adaptor app
 
